@@ -8,6 +8,7 @@
 * Identify the subject of a basic question, and incorporate it into an answer
 * Answer a simple question with a mix of English and mathematical symbols
 * Easily add responses into a list, based on the context of a question asked
+* Can look up the definition of a word in a dictionary (work in progress)
 ## Example Questions
 * What is five plus 5 times thirty six? `(5)+(5)×(30+6)=185`
 * Can you flip a coin? `I choose heads.`
