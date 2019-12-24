@@ -39,7 +39,7 @@ def answer(message, admin):
     str(random.randint(70,80)) + "%... that's a" + random.choice([" decent", " alright", "n okay"]) + " mark.", 
     str(random.randint(0,70)) + "%..." + random.choice([" let's not talk about it.", " I think you can do better.", " there is always next time.", " you tried your best right?"]),
     "It's " + random.choice(["around ", "something like ", "about "]) + str(random.randint(70,100)) + "%"],
-    ["kwprime number", "Why not use //prime?", "A prime number is a whole number greater than 1, whose only two whole-number factors are 1 and itself."],
+    ["kwprime number", "A prime number is a whole number greater than 1, whose only two whole-number factors are 1 and itself."],
     ["kwwill", "It could be very so.", "That's hard to answer.", "I cannot predict the future!", "Probably.", "It depends if you like bad or good news."],
     ["can you", "What makes you think I can't %s?", "If I could %s, then what?", "Why do you ask if I can %s?"],
     ["can i", "Perhaps you don't want to %s.", "Do you want to be able to %s?", "If you could %s, would you?", "Yes you can %s.", "Sorry, I don't think you can %s.",
